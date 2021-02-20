@@ -1,4 +1,4 @@
-# e-shop
+# Vue 3 startup template
 
 ## Project setup
 ```
